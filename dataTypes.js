@@ -19,3 +19,6 @@ console.log(typeof num);
 console.log(parseInt(num)+8);
 
 alert("This is an alert")
+
+
+Edited
